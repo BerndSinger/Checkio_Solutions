@@ -1,5 +1,6 @@
 '''
-
+In this program you check the sun angle for a given time
+before 6 am and after 18 pm the sun is not seen
 '''
 
 
